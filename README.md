@@ -1,8 +1,6 @@
 # cs229
 notes from http://cs229.stanford.edu/materials.html
 
-Welcome to the cs229 wiki!
-
 cs229-notes1.pdf
 
 cs229-notes10.pdf
