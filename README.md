@@ -1,5 +1,5 @@
 # cs229
-notes from http://cs229.stanford.edu/materials.html
+notes from http://cs229.stanford.edu
 
 cs229-notes1.pdf
 
